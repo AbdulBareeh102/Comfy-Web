@@ -18,7 +18,8 @@ const Hero = () => {
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore
           repellat explicabo enim soluta temporibus asperiores aut obcaecati
           perferendis porro nobis.
-        </p>3
+        </p>
+        3
         <div className="mt-10">
           <Link to="/products" className="btn btn-primary">
             Our Products
